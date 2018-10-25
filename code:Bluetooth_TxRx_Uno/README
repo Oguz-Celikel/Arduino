@@ -1,0 +1,11 @@
+Implementation of the Bluetooth Transmitter via Arduino Uno (2017)
+
+The topic of the project is Implementation of Bluetooth transmitter via Arduino and Bluetooth.
+According to this basic, a car controlled by the positions of the fingers. The controlled data that
+managed by the fingers were transmitted to the motors in the car. In detail, we aimed to control the
+car with four different instructions which are turn left, turn right, go straight and turn around. To decide
+these instructions, a glove with the flex sensors were designed. If the car is wanted to redirect
+backward, the switch on the glove should be opened. In this project, transmission between two
+Arduinos with Bluetooth was aimed. The flex sensor information were transmitted from the glove to
+the car and, also, switch mode information were transmitted to the car for going back. This project
+may be implemented in the real life such as controlling a wheel chair by a glove.
